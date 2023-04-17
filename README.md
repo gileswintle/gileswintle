@@ -1,10 +1,14 @@
 Hi,
 
-I work in the real estate fund management industry, basied in France but overseaing a European business.
+I work in the internaitonal real estate fund management industry, basied in France.
 
-I use Python, usually with Pandas, Numpy, SKLearn etc for modelling investment returns and general automation, often with web apps in Fast Api or Flask.
+I use code for optimisation, visualization and analysis of risk and return. Sorry - most of my repositories are private because of the nature of my business but if you need help in something in my domain in Python (with Pandas, Numpy, fastApi etc) or React, then don't hesitate to get in touch.
 
-A few things I have found useful are up here, please use as you see fit.
+All the best,
+
+
+Giles
+https://gileswintle.com/
 
 
 
